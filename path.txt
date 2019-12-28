@@ -1,0 +1,11 @@
+/actuator
+/actuator/env
+/actuator/info
+/actuator/health
+/system/showProperties
+/swagger-ui.html
+/peripheral/swagger-ui.html
+/peripheral/v2/api-docs
+/user/swagger-ui.html
+/admin//swagger-ui.html
+/system/showOsInfo
