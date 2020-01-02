@@ -1,5 +1,4 @@
 # SpringBootScan
-![SpringBoot][https://img.songma.com/wenzhang/20180911/dt4rhafzpki1108.jpg "SpringBoot"]
     扫描网站是否存在SpringBoot API信息泄漏或阿里云存储OSSKEY泄漏
 
 <h2>For Example:</h2>
