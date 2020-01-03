@@ -2,7 +2,7 @@
     扫描网站是否存在SpringBoot API信息泄漏或阿里云存储OSSKEY泄漏
 
 <h2>For Example:</h2>
-<code>python SpringBootScan.py</code>
+<code>python3 SpringBootScan.py</code>
 <p></p>
 <p></p>
 
