@@ -1,3 +1,6 @@
+/system/mappings
+/system/env
+/system/
 /actuator
 /actuator/env
 /actuator/info
